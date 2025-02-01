@@ -1241,3 +1241,12 @@ button:hover,
   margin-bottom: 20px; /* Отступ снизу в пикселях */
 }
 
+details {
+      padding: 10px;
+    }
+
+    summary {
+
+      cursor: pointer;
+      font-weight: bold;
+    }
